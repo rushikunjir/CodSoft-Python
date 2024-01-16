@@ -1,4 +1,4 @@
-#MY CALCULATOR:-
+#CALCULATOR:-
 from tkinter import*
 from tkinter import ttk
 r=Tk()
